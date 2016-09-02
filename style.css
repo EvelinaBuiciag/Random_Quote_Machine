@@ -1,0 +1,28 @@
+body {
+  background-color: #F8ECC2;
+  color: #6d050a;
+  font-family: Monoscape;
+  text-align: center;
+  padding-top: 70px;
+}
+
+.container {
+  margin-top: 40px;
+  background-color: #e7c29d;
+  text-align: center;
+  border-radius: 25px;
+  width: 30%;
+  font-family: "Monotype Corsiva";
+  font-size: 18px;
+  color: #6d1f05;
+  word-wrap: break-word;
+}
+
+.btn-danger {
+  background-color: #6d050a;
+  margin: 20px;
+}
+
+.quote-text {
+  font-size: 30px;
+}
